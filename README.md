@@ -1,2 +1,3 @@
 # pemrograman_mobile
-Praktikum Pemrograman Mobile
+Nama  : Muhammad Rayhan
+

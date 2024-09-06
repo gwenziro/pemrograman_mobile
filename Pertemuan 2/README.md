@@ -8,10 +8,10 @@ No. Presensi: 17
 
 # Soal 1
 SS kode program
-![image](https://github.com/user-attachments/assets/ef9bcd80-6fe2-4a18-b45e-3df3b55126b6)
+[![image](https://github.com/user-attachments/assets/ef9bcd80-6fe2-4a18-b45e-3df3b55126b6)](https://github.com/gwenziro/pemrograman_mobile/blob/f2be27ae1b0c4eb2685d7bdaa2a8e8235cfd83c4/Pertemuan%202/docs/365015622-ef9bcd80-6fe2-4a18-b45e-3df3b55126b6.png)
 
 Hasil eksekusi
-![image](https://github.com/user-attachments/assets/089f327c-22d5-4d54-9a22-c8c106ed3033)
+[![image](https://github.com/user-attachments/assets/089f327c-22d5-4d54-9a22-c8c106ed3033)](https://github.com/gwenziro/pemrograman_mobile/blob/f2be27ae1b0c4eb2685d7bdaa2a8e8235cfd83c4/Pertemuan%202/docs/365015706-089f327c-22d5-4d54-9a22-c8c106ed3033.png)
 
 Sumber kode program
 https://github.com/gwenziro/pemrograman_mobile/commit/d7e1e69f823232b58534ff9af68628f3a8e21fdd

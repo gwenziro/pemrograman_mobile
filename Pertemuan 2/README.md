@@ -21,13 +21,10 @@ Alasan paling sederhananya adalah karena Flutter sendiri dibangun oleh bahasa pe
 
 # Soal 3
 - Saat awal diciptakan, Dart memiliki tujuan penting yang sekaligus menjadi kelebihan bahasa Dart itu sendiri. Tujuan ini adalah menghilangkan kekurangan-kekurangan yang ada pada bahasa beraras tinggi pada umumnya. Kekurangan yang diperbaiki Dart tersebut, di antaranya Productive tooling, Garbage collection, Type annotations (opsional), Statically typed, dan Portability
-  
 - Saat diluncurkan pada 2011, Dart awalnya ditujukan untuk pengembangan web dan menggantikan JavaScript, tetapi kini berfokus pada mobile melalui Flutter. Dengan performa tinggi, alat modern, serta fitur OOP dan type annotations opsional, Dart menjadi bahasa yang kuat, fleksibel, dan mendukung lintas platform, cocok untuk proyek besar.
-  
 - Fleksibilitas bahasa Dart berasal dari dua cara eksekusi: melalui Dart Virtual Machines (VMs) dan JavaScript compilations. Dart dapat dijalankan di berbagai platform tanpa banyak perubahan pada kode.
 - Kode Dart bisa dieksekusi menggunakan dua mode: Just-In-Time (JIT) dan Ahead-Of-Time (AOT). Kompilasi JIT digunakan selama pengembangan untuk fitur debugging dan hot reload, sementara kompilasi AOT menghasilkan performa lebih cepat di aplikasi yang sudah selesai.
 - Fitur hot reload yang terkenal dalam Flutter adalah hasil dari Dart JIT, memungkinkan pengembang melihat perubahan kode secara cepat dan meningkatkan efisiensi pengembangan.
-
 - Dart memiliki sintaks yang mirip dengan bahasa lain seperti C dan JavaScript, sehingga mudah dipahami jika sudah familier dengan bahasa-bahasa tersebut.
 - Dart adalah bahasa pemrograman berorientasi objek yang memanfaatkan konsep objek untuk menyimpan data dan kode, dengan objek dibuat dari class yang mendefinisikan fields dan methods.
 - Dart juga menyediakan fitur PBO pada umumnya, seperti enkapsulasi, pewarisan, komposisi, abstraksi, dan polimorfisme.

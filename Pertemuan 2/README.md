@@ -14,7 +14,7 @@ Hasil eksekusi
 ![image](https://github.com/user-attachments/assets/089f327c-22d5-4d54-9a22-c8c106ed3033)
 
 Sumber kode program
-https://github.com/gwenziro/pemrograman_mobile/commit/354e205e43cc33a2247aa5553a36eae030aa565b
+https://github.com/gwenziro/pemrograman_mobile/commit/d7e1e69f823232b58534ff9af68628f3a8e21fdd
 
 # Soal 2
 Alasan paling sederhananya adalah karena Flutter sendiri dibangun oleh bahasa pemrograman Dart. Flutter sepenuhnya diciptakan di atas Dart. Artinya, seluruh komponen dan berbagai halnya, seperti antarmuka tampilan, state, dan logika serta alur pemrogramannya, ditulis dengan Dart. Selain itu, dengan kita menguasai bahasa pemrograman Dart, kita juga harus menguasai atau memahami betul konsep-konsep yang ada Dart itu sendiri. Tujuannya tentu agar kita bisa memahami kode Flutter yang kita tulis sendiri secara optimal.

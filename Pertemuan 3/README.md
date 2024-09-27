@@ -1,5 +1,9 @@
 # Pertemuan 3
 
+Nama        : Muhamamd Rayhan
+NIM         : 2241720213
+No. Presensi: 17
+
 ## Praktikum 1
 ### Langkah 1
 

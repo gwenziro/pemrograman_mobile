@@ -6,7 +6,8 @@ No. Presensi: 17
 
 ## Praktikum 1
 ### Langkah 1
-![image](https://github.com/user-attachments/assets/fe6ad2e3-a64d-4609-befc-301a69085da2)
+![image](https://github.com/user-attachments/assets/8d9ff378-07f3-4cb1-8dd6-138c91cfdfd4)
+
 
 ### Langkah 2
 ![Hasil Eksekusi P1](https://github.com/gwenziro/pemrograman_mobile/raw/main/Pertemuan%203/docs/Hasil%20Eksekusi%20P1.png)
@@ -39,3 +40,4 @@ Masalahnya terletak pada bagian kode if (index > 1 || index < 7) continue;. Kond
 Untuk memperbaiki masalah ini, kita perlu mengubah kondisi if tersebut agar sesuai dengan logika yang diinginkan. Misalnya, jika kita ingin melanjutkan loop hanya jika index berada di luar rentang 1 hingga 7, kita bisa menggunakan kondisi if (index > 1 && index < 7) continue;
 
 # Tugas Praktikum
+![image](https://github.com/user-attachments/assets/1e0011fb-6730-4d72-a9ad-5748f66cdbb4)

@@ -6,6 +6,7 @@ No. Presensi: 17
 
 ## Praktikum 1
 ### Langkah 1
+![image](https://github.com/user-attachments/assets/fe6ad2e3-a64d-4609-befc-301a69085da2)
 
 ### Langkah 2
 ![Hasil Eksekusi P1](https://github.com/gwenziro/pemrograman_mobile/raw/main/Pertemuan%203/docs/Hasil%20Eksekusi%20P1.png)

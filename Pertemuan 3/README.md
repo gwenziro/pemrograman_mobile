@@ -4,6 +4,7 @@
 ### Langkah 1
 
 ### Langkah 2
+https://github.com/gwenziro/pemrograman_mobile/blob/3dacbf80200fdec49ab576533ba712dadc618d8e/Pertemuan%203/docs/Hasil%20Eksekusi%20P1.png
 Kode tersebut melakukan pengondisian pada variabel String test. Kondisi yang benar adalah perbandingan dengan "test2", sehingga pada else if pertama, teks "Test2" akan dicetak. Satu lagi, karena kode if kedua menghasilkan nilai true, teks "Teks2 again" juga dicetak.
 
 ### Langkah 3

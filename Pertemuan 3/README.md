@@ -4,9 +4,11 @@
 ### Langkah 1
 
 ### Langkah 2
+Pertemuan 3/docs/Hasil Eksekusi P1.png
 Kode tersebut melakukan pengondisian pada variabel String test. Kondisi yang benar adalah perbandingan dengan "test2", sehingga pada else if pertama, teks "Test2" akan dicetak. Satu lagi, karena kode if kedua menghasilkan nilai true, teks "Teks2 again" juga dicetak.
 
 ### Langkah 3
+
 ## Praktikum 2
 ### Langkah 1
 

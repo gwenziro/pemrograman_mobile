@@ -24,5 +24,8 @@ Kode tersebut mendemonstrasikan penggunaan set dan map. Pertama, tiga variabel d
 ## Praktikum 3
 
 ### Penjelasan Kode
+Kode tersebut mendemonstrasikan penggunaan Map pada Dart. Pada awalnya, map gifts dan nobleglass diinisialisasi oleh kunci-nilai yang dinamis. Menjadi dinamis karena saat pendeklarasian, kedua map tersebut tidak ditentukan jenis tipe datanya. Dengan begitu, kunci-nilai pada kedua map tersebut dapat diisi oleh jenis tipe data apa pun.
 
 ### Hasil Akhir
+![image](https://github.com/user-attachments/assets/7747b526-2980-4428-b1a4-f4e69928ed9b)
+Secara sintaksis atau penulisan kode, kode tersebut tidak menghasilkan eror. Hanya saja, kode tersebut hanya melakukan pendeklarasian dan inisialisasi variabel, tanpa ada pencetakan. Alhasil, tidak ada yang di-output-kan dari kode tersebut. Oleh karena itu, perbaikannya adalah kita dapat menambahkan kode print() untuk mencetak output yang kita inginkan.

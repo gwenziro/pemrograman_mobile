@@ -62,3 +62,8 @@ Collection For pada kode di atas berfungsi untuk menambahkan elemen-elemen dari 
 ![image](https://github.com/user-attachments/assets/6e748ea0-5271-4838-8dcc-abc97f52429f)
 
 ## Praktikum 5
+
+### Hasil Eksekusi Langkah 1
+![image](https://github.com/user-attachments/assets/5ab020cc-0b9f-4682-95a2-6f4ef658ee9c)ekse
+
+### Hasil Eksekusi

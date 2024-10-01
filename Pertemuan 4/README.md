@@ -32,8 +32,33 @@ Secara sintaksis atau penulisan kode, kode tersebut tidak menghasilkan eror. Han
 
 ## Praktikum 4
 
-### Hasil Eksekusi (Langkah 2)
+### Hasil Eksekusi Langkah 2
 ![image](https://github.com/user-attachments/assets/f2afeb3c-d066-45cb-8030-58df18af5c6a)
 Kode tersebut mendemonstrasikan penggunaan operator spread (...) untuk menggabungkan list. Pada awalnya, sebuah variabel list bernama "list" diinisialisasi dengan nilai [1, 2, 3]. Kemudian, variabel list bernama "list2" diinisialisasi dengan menambah eemen 0 diikuti dengan semua elemen dari "list" menggunakan operator spread (...). Di akhir, "list" dan "list2" dicetak beserta panjang kedua list tersebut.
 
+### Hasil Eksekusi Langkah 3
+![image](https://github.com/user-attachments/assets/dc0d209f-bfb9-47f1-85f9-ec2d5d8c48e4)
+Kesalahan pada kode tersebut adalah tidak mendeklarasikan tipe variabel "list1". Oleh karena itu, perbaikannya adalah dengan menambahkan tipe data sebelum variabel "list1" tersebut diinisialisasi. Dalam hal ini, kita tentukan tipenya adalah var.
+
+### Hasil Eksekusi Langkah 4
+#### Ketika promoActive = true
+![image](https://github.com/user-attachments/assets/b8ca48a8-5728-42dd-a158-3a524e125bbd)
+
+#### Ketika promoActive = false
+![image](https://github.com/user-attachments/assets/58a6906f-4e62-4707-99a1-306f089c8025)
+
+### Hasil Eksekusi Langkah 5
+#### Ketika login = "Manager"
+![image](https://github.com/user-attachments/assets/0d1b9208-04e7-4126-9b21-1c3910f8d1f3)
+
+#### Ketika login != "Manager"
+![image](https://github.com/user-attachments/assets/637026ab-28f8-4a85-bb02-9f2fbc83f5b5)
+
+### Hasil Eksekusi Langkah 6
+![image](https://github.com/user-attachments/assets/33751241-ef68-4a4d-bae0-7565cb5a0618)
+Collection For pada kode di atas berfungsi untuk menambahkan elemen-elemen dari `listOfInts` ke dalam `listOfStrings` secara dinamis, sehingga membuat kode lebih ringkas dan efisien dibandingkan menambahkan elemen satu per satu.
+
 ### Hasil Akhir
+![image](https://github.com/user-attachments/assets/6e748ea0-5271-4838-8dcc-abc97f52429f)
+
+## Praktikum 5

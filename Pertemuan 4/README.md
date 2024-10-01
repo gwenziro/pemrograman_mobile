@@ -29,3 +29,11 @@ Kode tersebut mendemonstrasikan penggunaan Map pada Dart. Pada awalnya, map gift
 ### Hasil Akhir
 ![image](https://github.com/user-attachments/assets/7747b526-2980-4428-b1a4-f4e69928ed9b)
 Secara sintaksis atau penulisan kode, kode tersebut tidak menghasilkan eror. Hanya saja, kode tersebut hanya melakukan pendeklarasian dan inisialisasi variabel, tanpa ada pencetakan. Alhasil, tidak ada yang di-output-kan dari kode tersebut. Oleh karena itu, perbaikannya adalah kita dapat menambahkan kode print() untuk mencetak output yang kita inginkan.
+
+## Praktikum 4
+
+### Hasil Eksekusi (Langkah 2)
+![image](https://github.com/user-attachments/assets/f2afeb3c-d066-45cb-8030-58df18af5c6a)
+Kode tersebut mendemonstrasikan penggunaan operator spread (...) untuk menggabungkan list. Pada awalnya, sebuah variabel list bernama "list" diinisialisasi dengan nilai [1, 2, 3]. Kemudian, variabel list bernama "list2" diinisialisasi dengan menambah eemen 0 diikuti dengan semua elemen dari "list" menggunakan operator spread (...). Di akhir, "list" dan "list2" dicetak beserta panjang kedua list tersebut.
+
+### Hasil Akhir

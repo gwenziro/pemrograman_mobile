@@ -67,3 +67,26 @@ Collection For pada kode di atas berfungsi untuk menambahkan elemen-elemen dari 
 ![image](https://github.com/user-attachments/assets/5ab020cc-0b9f-4682-95a2-6f4ef658ee9c)ekse
 
 ### Hasil Eksekusi
+
+
+## Tugas Praktikum
+### 2.
+Functions dalam Dart adalah blok kode yang dapat dieksekusi ketika dipanggil. Function berfungsi untuk mengelompokkan kode yang dapat digunakan kembali untuk memecahkan masalah tertentu.
+
+### 3.
+- Positional Parameters: Parameter yang harus diberikan urutan saat function dipanggil.
+- Optional Positional Parameters: Parameter opsional yang tidak wajib diisi, menggunakan tanda [].
+- Named Parameters: Parameter yang diberi nama, menggunakan {} untuk membuat parameter opsional.
+
+### 4.
+Dart memperlakukan function sebagai first-class objects, artinya function bisa disimpan dalam variabel, dikirim sebagai argumen ke function lain, atau dikembalikan dari function.
+
+### 5.
+Anonymous Functions adalah function tanpa nama yang sering digunakan ketika function hanya dibutuhkan satu kali. Biasanya digunakan dalam parameter atau variabel.
+
+### 6.
+- Lexical Scope: Variabel yang dideklarasikan dalam suatu scope hanya bisa diakses dari dalam scope tersebut.
+- Lexical Closures: Closure adalah function yang bisa menangkap variabel di luar lingkupnya.
+
+### 7.
+Dart tidak mendukung return multiple values secara langsung, tetapi bisa diakali dengan menggunakan List, Map, atau Tuple.

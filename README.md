@@ -1,16 +1,9 @@
-# flutter_basic
+# PERTEMUAN 6
 
-A new Flutter project.
+NAMA    : Muhammad Rayhan
+NIM     : 2241720213
+KELAS   : TI-3H
 
-## Getting Started
+## Praktikum 3
+![image](https://github.com/user-attachments/assets/036e5d77-1544-4934-a1cc-13485cc1f152)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

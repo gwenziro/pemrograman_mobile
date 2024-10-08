@@ -64,9 +64,10 @@ Collection For pada kode di atas berfungsi untuk menambahkan elemen-elemen dari 
 ## Praktikum 5
 
 ### Hasil Eksekusi Langkah 1
-![image](https://github.com/user-attachments/assets/5ab020cc-0b9f-4682-95a2-6f4ef658ee9c)ekse
+![image](https://github.com/user-attachments/assets/5ab020cc-0b9f-4682-95a2-6f4ef658ee9c)
 
 ### Hasil Eksekusi
+![image](https://github.com/user-attachments/assets/b93e6edd-d5db-41dc-a839-874057ca1161)
 
 
 ## Tugas Praktikum

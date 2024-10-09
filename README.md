@@ -16,3 +16,8 @@ KELAS   : TI-3H
 ## Praktikum 3
 ![image](https://github.com/user-attachments/assets/036e5d77-1544-4934-a1cc-13485cc1f152)
 
+## Praktikum 4
+![image](https://github.com/user-attachments/assets/47b1d742-e2b9-4e89-960e-9e3674202e6e)
+![image](https://github.com/user-attachments/assets/ff19db72-a33a-49e3-8d63-688dac2956c9)
+
+
